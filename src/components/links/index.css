@@ -1,0 +1,31 @@
+.defCad {
+	align-items: center;
+	max-height: 200px;
+}
+
+.onlyFans {
+	align-items: center;
+	max-height: 100px;
+}
+
+.instagram {
+	max-height: 150px;
+	align-items: center;
+}
+
+Button {
+	align-content: space-between;
+	max-width: 1000px;
+	border: 20px;
+	border-color: black;
+	background-color: aliceblue;
+}
+
+.odysee {
+	max-width: 1000px;
+	max-height:200px;
+}
+
+.twitter{
+	max-height: 100px;
+}
