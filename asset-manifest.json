@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.50601626.css",
-    "main.js": "/static/js/main.78d23edf.js",
-    "static/js/496.86b04788.chunk.js": "/static/js/496.86b04788.chunk.js",
-    "static/media/durbans-logo-edited.png": "/static/media/durbans-logo-edited.5723e06dc79ef25c7bc7.png",
-    "static/media/twitterlogo.png": "/static/media/twitterlogo.14e2bb2472367e5bab08.png",
-    "static/media/onlyfanslogo.png": "/static/media/onlyfanslogo.ab6fe6a3a0c787759d48.png",
-    "static/media/instagramLogo.png": "/static/media/instagramLogo.4a3005efcb07a3e4bd7b.png",
-    "static/media/defcad.png": "/static/media/defcad.c08f4749f0f721520471.png",
-    "static/media/odyseelogo.png": "/static/media/odyseelogo.271abab7dd0640a6ac03.png",
-    "index.html": "/index.html",
-    "main.50601626.css.map": "/static/css/main.50601626.css.map",
-    "main.78d23edf.js.map": "/static/js/main.78d23edf.js.map",
-    "496.86b04788.chunk.js.map": "/static/js/496.86b04788.chunk.js.map"
+    "main.css": "/durbanpoison.github.io/static/css/main.50601626.css",
+    "main.js": "/durbanpoison.github.io/static/js/main.e105cd35.js",
+    "static/js/496.86b04788.chunk.js": "/durbanpoison.github.io/static/js/496.86b04788.chunk.js",
+    "static/media/durbans-logo-edited.png": "/durbanpoison.github.io/static/media/durbans-logo-edited.5723e06dc79ef25c7bc7.png",
+    "static/media/twitterlogo.png": "/durbanpoison.github.io/static/media/twitterlogo.14e2bb2472367e5bab08.png",
+    "static/media/onlyfanslogo.png": "/durbanpoison.github.io/static/media/onlyfanslogo.ab6fe6a3a0c787759d48.png",
+    "static/media/instagramLogo.png": "/durbanpoison.github.io/static/media/instagramLogo.4a3005efcb07a3e4bd7b.png",
+    "static/media/defcad.png": "/durbanpoison.github.io/static/media/defcad.c08f4749f0f721520471.png",
+    "static/media/odyseelogo.png": "/durbanpoison.github.io/static/media/odyseelogo.271abab7dd0640a6ac03.png",
+    "index.html": "/durbanpoison.github.io/index.html",
+    "main.50601626.css.map": "/durbanpoison.github.io/static/css/main.50601626.css.map",
+    "main.e105cd35.js.map": "/durbanpoison.github.io/static/js/main.e105cd35.js.map",
+    "496.86b04788.chunk.js.map": "/durbanpoison.github.io/static/js/496.86b04788.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50601626.css",
-    "static/js/main.78d23edf.js"
+    "static/js/main.e105cd35.js"
   ]
 }
