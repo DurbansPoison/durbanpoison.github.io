@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import './index.css';
@@ -12,21 +13,21 @@ function OnlyFans(props) {
 			<img src={onlyFansLogo} alt='onlyfans' className='onlyFans' />
 		</a>
 	);
-};
+}
 function DefCad(props) {
 	return (
 		<a href='https://defcad.com/users/durbanpoisonpew/' className='link'>
 			<img src={DefCadLogo} alt='defcad' className='defCad' />
 		</a>
 	);
-};
+}
 function Instagram(props) {
 	return (
 		<a href='https://instagram.com/durbanpoisonpew' className='link'>
 			<img src={InstagramLogo} alt='instagram' className='instagram' />
 		</a>
 	)
-};
+}
 
 function Odysee(props) {
 	return (
@@ -34,7 +35,7 @@ function Odysee(props) {
 			<img src={OdyseeLogo} alt='odysee' className='odysee' />
 		</a>
 	)
-};
+}
 
 function Twitter(props) {
 	return (
